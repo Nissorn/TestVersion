@@ -1,0 +1,24 @@
+{
+  "total_files": 1000,
+  "fast_mode": false,
+  "stats": {
+    "total_files": 1000,
+    "successful": 1000,
+    "failed": 0,
+    "skipped": 0,
+    "plagiarism_count": {
+      "all": 6,
+      "static": 2,
+      "dynamic": 6
+    },
+    "start_time": "2025-09-22 12:52:01.880542",
+    "end_time": "2025-09-22 12:52:02.985752"
+  },
+  "parser_stats": {
+    "pycparser_success": 10,
+    "regex_fallback": 982,
+    "minimal_ast": 8,
+    "total_attempts": 1000
+  },
+  "timestamp": "20250922_125202"
+}

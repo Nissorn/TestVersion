@@ -1,0 +1,35 @@
+cluster_id,size,unique_students,student_ids,suspicious_level
+1,314,311,"student9482, student5904, student1579, student4415, student4575, student2676, student5496, student3756, student4011, student5468",HIGH
+3,287,238,"student2925, student1237, student5441, student5695, student2717, student5939, student4370, student3594, student5867, student8199",HIGH
+6,204,204,"student4414, student6259, student6484, student7173, student4824, student8993, student4415, student4011, student6613, student2111",HIGH
+2,31,31,"student8993, student6613, student3219, student6953, student5533, student2472, student5297, student8389, student8363, student5345",HIGH
+5,18,18,"student2111, student7492, student1180, student7888, student2922, student8029, student9998, student9972, student7368, student4273",HIGH
+0,16,16,"student4824, student3807, student6364, student4770, student5863, student3331, student7791, student7540, student3732, student8923",HIGH
+7,14,14,"student8986, student3386, student7085, student1542, student4412, student5581, student3047, student8139, student7597, student8085",HIGH
+20,12,12,"student3178, student4628, student1976, student5863, student3424, student4377, student5581, student3331, student3535, student8100",HIGH
+8,11,11,"student9318, student4471, student8665, student9624, student6255, student3306, student8051, student9821, student1571, student4026",HIGH
+21,8,8,"student2267, student4599, student5592, student5403, student1307, student1313, student4320, student6419",MEDIUM
+13,8,7,"student2953, student4150, student1202, student6357, student4780, student6363, student6707",MEDIUM
+14,8,6,"student5961, student2967, student6468, student2221, student2142, student4296",MEDIUM
+25,4,4,"student5899, student7320, student9358, student4108",MEDIUM
+16,3,3,"student7162, student3711, student8430",MEDIUM
+32,3,3,"student7540, student6889, student1202",MEDIUM
+30,3,3,"student4766, student3119, student1938",MEDIUM
+33,3,3,"student2160, student2567, student3841",MEDIUM
+11,3,3,"student4599, student5592, student1307",MEDIUM
+15,2,2,"student5140, student9924",LOW
+26,2,2,"student4167, student4124",LOW
+4,2,2,"student2886, student4852",LOW
+31,2,2,"student3047, student2586",LOW
+9,2,2,"student7678, student7911",LOW
+29,2,2,"student6007, student1302",LOW
+28,2,2,"student1581, student7001",LOW
+27,2,2,"student2664, student6706",LOW
+10,2,2,"student9325, student3442",LOW
+18,2,2,"student9931, student2645",LOW
+24,2,2,"student2701, student3631",LOW
+23,2,2,"student3386, student8085",LOW
+22,2,2,"student6995, student2155",LOW
+12,2,2,"student7643, student2634",LOW
+19,2,2,"student8964, student4973",LOW
+17,2,2,"student2949, student7665",LOW

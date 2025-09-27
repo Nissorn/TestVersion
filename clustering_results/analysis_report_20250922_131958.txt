@@ -1,0 +1,31 @@
+CodeBERT-based Plagiarism Detection Analysis Report
+==================================================
+
+Analysis Date: 2025-09-22 13:19:58
+Dataset: 1000 code submissions
+Model: neulab/codebert-cpp
+Clustering: DBSCAN (eps=2.5, min_samples=2)
+
+RESULTS SUMMARY:
+- Total clusters identified: 34
+- Noise points: 18
+- Silhouette Score: 0.5202
+- Potentially plagiarized groups: 18
+
+TOP SUSPICIOUS CLUSTERS:
+- Cluster 1: 314 submissions from 311 students (HIGH risk)
+- Cluster 3: 287 submissions from 238 students (HIGH risk)
+- Cluster 6: 204 submissions from 204 students (HIGH risk)
+- Cluster 2: 31 submissions from 31 students (HIGH risk)
+- Cluster 5: 18 submissions from 18 students (HIGH risk)
+- Cluster 0: 16 submissions from 16 students (HIGH risk)
+- Cluster 7: 14 submissions from 14 students (HIGH risk)
+- Cluster 20: 12 submissions from 12 students (HIGH risk)
+- Cluster 8: 11 submissions from 11 students (HIGH risk)
+- Cluster 21: 8 submissions from 8 students (MEDIUM risk)
+
+RECOMMENDATIONS:
+1. Review all clusters marked as 'HIGH' risk
+2. Cross-check submission timestamps for temporal patterns
+3. Manually inspect code similarity within large clusters
+4. Consider academic integrity investigation for clusters with multiple submissions from few students
